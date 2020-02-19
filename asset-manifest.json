@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cd-letter-animation/static/css/main.31908417.chunk.css",
+    "main.js": "/cd-letter-animation/static/js/main.57229d6e.chunk.js",
+    "main.js.map": "/cd-letter-animation/static/js/main.57229d6e.chunk.js.map",
+    "runtime-main.js": "/cd-letter-animation/static/js/runtime-main.f41a2f96.js",
+    "runtime-main.js.map": "/cd-letter-animation/static/js/runtime-main.f41a2f96.js.map",
+    "static/css/2.67123b20.chunk.css": "/cd-letter-animation/static/css/2.67123b20.chunk.css",
+    "static/js/2.367b0208.chunk.js": "/cd-letter-animation/static/js/2.367b0208.chunk.js",
+    "static/js/2.367b0208.chunk.js.map": "/cd-letter-animation/static/js/2.367b0208.chunk.js.map",
+    "index.html": "/cd-letter-animation/index.html",
+    "precache-manifest.6e27a8d8d853c21880bd2822c9778cd8.js": "/cd-letter-animation/precache-manifest.6e27a8d8d853c21880bd2822c9778cd8.js",
+    "service-worker.js": "/cd-letter-animation/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/cd-letter-animation/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.31908417.chunk.css.map": "/cd-letter-animation/static/css/main.31908417.chunk.css.map",
+    "static/js/2.367b0208.chunk.js.LICENSE.txt": "/cd-letter-animation/static/js/2.367b0208.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f41a2f96.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.367b0208.chunk.js",
+    "static/css/main.31908417.chunk.css",
+    "static/js/main.57229d6e.chunk.js"
+  ]
+}
